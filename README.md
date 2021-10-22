@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jonnyrs17
+- 👋 Hi, I’m @Jonny RS
 - 👀 I’m interested in changing my career
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that will help me learn
