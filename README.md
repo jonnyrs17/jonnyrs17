@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonny RS
 - 👀 I’m interested in changing my career
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, mysql and django
 - 💞️ I’m looking to collaborate on anything that will help me learn
 - 📫 How to reach me: e-mail me
 
